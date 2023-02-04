@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="366e95fd-5b87-4236-b050-3eab06c218c5" name="Changes" comment="">
+    <list default="true" id="366e95fd-5b87-4236-b050-3eab06c218c5" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/src/A_Inputs_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_Inputs_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_Inputs_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_Inputs_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_JAD_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_JAD_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_JAD_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_JAD_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_JAD_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_JAD_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_JAD_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_JAD_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_JAD_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_JAD_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,24 +35,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/abhin/IdeaProjects/Programs/out/production/Programs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abhin/IdeaProjects/Programs/out/production/Programs&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.A_JAD_5">
-    <configuration name="A_JAD_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_JAD_2" />
+}</component>
+  <component name="RunManager" selected="Application.A_Inputs_3">
+    <configuration name="A_Inputs_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_Inputs_1" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A_JAD_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_JAD_3" />
+    <configuration name="A_Inputs_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_Inputs_2" />
+      <module name="Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A_Inputs_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_Inputs_3" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,17 +89,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Run" />
-      <item itemvalue="Application.A_JAD_2" />
-      <item itemvalue="Application.A_JAD_3" />
+      <item itemvalue="Application.A_Inputs_1" />
+      <item itemvalue="Application.A_Inputs_2" />
+      <item itemvalue="Application.A_Inputs_3" />
       <item itemvalue="Application.A_JAD_4" />
       <item itemvalue="Application.A_JAD_5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A_Inputs_3" />
+        <item itemvalue="Application.A_Inputs_2" />
+        <item itemvalue="Application.A_Inputs_1" />
         <item itemvalue="Application.A_JAD_5" />
         <item itemvalue="Application.A_JAD_4" />
-        <item itemvalue="Application.A_JAD_3" />
-        <item itemvalue="Application.A_JAD_2" />
       </list>
     </recent_temporary>
   </component>
@@ -106,6 +114,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675518100680</updated>
     </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1675522851285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675522851285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
 </project>
