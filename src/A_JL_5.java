@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 
 public class A_JL_5 {
     public static void main(String[] args) {
