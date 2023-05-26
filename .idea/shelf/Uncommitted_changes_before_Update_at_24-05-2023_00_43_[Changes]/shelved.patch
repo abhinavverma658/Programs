@@ -1,0 +1,157 @@
+Index: src/A_JL_3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/A_JL_3.java b/src/A_JL_3.java
+new file mode 100644
+--- /dev/null	(date 1684868778889)
++++ b/src/A_JL_3.java	(date 1684868778889)
+@@ -0,0 +1,15 @@
++//Write a program to calculate the factorial of a number
++import java.util.Scanner;
++
++public class A_JL_3 {
++    public static void main(String[] args) {
++        Scanner sc = new Scanner(System.in);
++        System.out.print("Enter factorial to calculate: ");
++        int x = sc.nextInt();
++        int n = 1;
++        for(int i = 1 ; i<=x;i++){
++            n=n*i;
++            System.out.println(n);
++        }
++    }
++}
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"366e95fd-5b87-4236-b050-3eab06c218c5\" name=\"Changes\" comment=\"changes\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/A_Inputs_5.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/A_Inputs_4.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/A_Inputs_4.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2LHBOuOhbJ23vbI8AdAOB8eghoG\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/abhin/IdeaProjects/Programs/out/production/Programs&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.A_Inputs_5\">\r\n    <configuration name=\"A_Inputs_1\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"A_Inputs_1\" />\r\n      <module name=\"Programs\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"A_Inputs_2\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"A_Inputs_2\" />\r\n      <module name=\"Programs\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"A_Inputs_3\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"A_Inputs_3\" />\r\n      <module name=\"Programs\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"A_Inputs_4\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"A_Inputs_4\" />\r\n      <module name=\"Programs\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"A_Inputs_5\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"A_Inputs_5\" />\r\n      <module name=\"Programs\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Run\" type=\"Application\" factoryName=\"Application\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"AQ_JVAD\" />\r\n      <module name=\"Programs\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/out/production/Programs\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Application.Run\" />\r\n      <item itemvalue=\"Application.A_Inputs_4\" />\r\n      <item itemvalue=\"Application.A_Inputs_5\" />\r\n      <item itemvalue=\"Application.A_Inputs_1\" />\r\n      <item itemvalue=\"Application.A_Inputs_2\" />\r\n      <item itemvalue=\"Application.A_Inputs_3\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.A_Inputs_5\" />\r\n        <item itemvalue=\"Application.A_Inputs_4\" />\r\n        <item itemvalue=\"Application.A_Inputs_3\" />\r\n        <item itemvalue=\"Application.A_Inputs_2\" />\r\n        <item itemvalue=\"Application.A_Inputs_1\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"366e95fd-5b87-4236-b050-3eab06c218c5\" name=\"Changes\" comment=\"\" />\r\n      <created>1675518100680</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1675518100680</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"changes\">\r\n      <created>1675522851285</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675522851285</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"changes\">\r\n      <created>1675545323753</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1675545323753</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"changes\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"changes\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/A_Inputs_4.java</url>\r\n          <line>17</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 13f454d68ce1c2df41970882d43d1957d56d5b1e)
++++ b/.idea/workspace.xml	(date 1684868444208)
+@@ -5,9 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="366e95fd-5b87-4236-b050-3eab06c218c5" name="Changes" comment="changes">
+-      <change afterPath="$PROJECT_DIR$/src/A_Inputs_5.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/A_JL_3.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/A_Inputs_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_Inputs_4.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -33,45 +32,51 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/abhin/IdeaProjects/Programs/out/production/Programs&quot;
+-  }
+-}</component>
+-  <component name="RunManager" selected="Application.A_Inputs_5">
+-    <configuration name="A_Inputs_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="A_Inputs_1" />
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "git-widget-placeholder": "master",
++    "last_opened_file_path": "C:/Users/abhin/IdeaProjects/Programs/out/production/Programs"
++  }
++}]]></component>
++  <component name="RecentsManager">
++    <key name="CopyClassDialog.RECENTS_KEY">
++      <recent name="" />
++    </key>
++  </component>
++  <component name="RunManager" selected="Application.A_JL_3">
++    <configuration name="A_Inputs_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="A_Inputs_3" />
+       <module name="Programs" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="A_Inputs_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="A_Inputs_2" />
++    <configuration name="A_Inputs_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="A_Inputs_4" />
+       <module name="Programs" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="A_Inputs_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="A_Inputs_3" />
++    <configuration name="A_Inputs_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="A_Inputs_5" />
+       <module name="Programs" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="A_Inputs_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="A_Inputs_4" />
++    <configuration name="A_JL_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="A_JL_1" />
+       <module name="Programs" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="A_Inputs_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="A_Inputs_5" />
++    <configuration name="A_JL_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="A_JL_3" />
+       <module name="Programs" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+@@ -87,19 +92,19 @@
+     </configuration>
+     <list>
+       <item itemvalue="Application.Run" />
++      <item itemvalue="Application.A_JL_1" />
++      <item itemvalue="Application.A_JL_3" />
+       <item itemvalue="Application.A_Inputs_4" />
+       <item itemvalue="Application.A_Inputs_5" />
+-      <item itemvalue="Application.A_Inputs_1" />
+-      <item itemvalue="Application.A_Inputs_2" />
+       <item itemvalue="Application.A_Inputs_3" />
+     </list>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.A_JL_3" />
++        <item itemvalue="Application.A_JL_1" />
+         <item itemvalue="Application.A_Inputs_5" />
+         <item itemvalue="Application.A_Inputs_4" />
+         <item itemvalue="Application.A_Inputs_3" />
+-        <item itemvalue="Application.A_Inputs_2" />
+-        <item itemvalue="Application.A_Inputs_1" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -126,7 +131,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1675545323753</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="changes">
++      <created>1684866752944</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1684866752944</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
