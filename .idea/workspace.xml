@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="366e95fd-5b87-4236-b050-3eab06c218c5" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/src/Patten_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patten_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,21 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Patten_4">
-    <configuration name="A_JL_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_JL_5" />
-      <module name="Programs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Patten_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patten_2" />
-      <module name="Programs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Pattern_7">
     <configuration name="Patten_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Patten_3" />
       <module name="Programs" />
@@ -79,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_1" />
+    <configuration name="Pattern_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_5" />
+      <module name="Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_6" />
+      <module name="Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_7" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,19 +97,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Run" />
-      <item itemvalue="Application.Patten_2" />
+      <item itemvalue="Application.Pattern_7" />
+      <item itemvalue="Application.Pattern_5" />
+      <item itemvalue="Application.Pattern_6" />
       <item itemvalue="Application.Patten_3" />
       <item itemvalue="Application.Patten_4" />
-      <item itemvalue="Application.Pattern_1" />
-      <item itemvalue="Application.A_JL_5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_7" />
+        <item itemvalue="Application.Pattern_5" />
+        <item itemvalue="Application.Pattern_6" />
         <item itemvalue="Application.Patten_4" />
         <item itemvalue="Application.Patten_3" />
-        <item itemvalue="Application.Patten_2" />
-        <item itemvalue="Application.Pattern_1" />
-        <item itemvalue="Application.A_JL_5" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685132702734</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changes">
+      <created>1685136481406</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685136481406</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
