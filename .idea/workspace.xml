@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="366e95fd-5b87-4236-b050-3eab06c218c5" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pattern_8">
+  <component name="RunManager" selected="Application.Pattern_10">
+    <configuration name="Pattern_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_10" />
+      <module name="Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Pattern_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern_2" />
       <module name="Programs" />
@@ -60,13 +66,6 @@
     </configuration>
     <configuration name="Pattern_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern_4" />
-      <module name="Programs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pattern_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_7" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,19 +95,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Run" />
+      <item itemvalue="Application.Pattern_10" />
       <item itemvalue="Application.Pattern_2" />
       <item itemvalue="Application.Pattern_4" />
-      <item itemvalue="Application.Pattern_7" />
       <item itemvalue="Application.Pattern_8" />
       <item itemvalue="Application.Pattern_9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_10" />
         <item itemvalue="Application.Pattern_8" />
         <item itemvalue="Application.Pattern_9" />
         <item itemvalue="Application.Pattern_2" />
         <item itemvalue="Application.Pattern_4" />
-        <item itemvalue="Application.Pattern_7" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685377403029</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="changes">
+      <created>1685384024585</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685384024585</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
