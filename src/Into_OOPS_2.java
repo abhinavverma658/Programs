@@ -1,27 +1,30 @@
-
 import java.util.Scanner;
 
 class triangle {
-    Scanner sc= new Scanner(System.in);
-    class ar{
-        int b= sc.nextInt();
-        int h= sc.nextInt();
-        int area=(b*h)/2;
-
+    double  a , base,b, c,h;
+    public double area(){ //method 1
+        double v = (base * h) / 2;
+        return v;
     }
-    class pr{
-        int side_1=sc.nextInt();
-        int side_2= sc.nextInt();
-        int side_3= sc.nextInt();
-        int perimeter =side_1+side_2+side_3;
+    public double perimeter(){ //method 2
+        return (a+b+c);
     }
-
 }
 
 public class Into_OOPS_2 {
     public static void main(String[] args) {
-        System.out.println("Enter b and h");
+        Scanner sc = new Scanner(System.in);
         triangle triangle_1 = new triangle();
+        System.out.println("Enter Sides for perimeter in cm: ");
+        triangle_1.a = sc.nextDouble();
+        triangle_1.b = sc.nextDouble();
+        triangle_1.c= sc.nextDouble();
+        System.out.println("Enter base and height for area in cm: ");
+        triangle_1.base=sc.nextDouble();
+        triangle_1.h= sc.nextDouble();
+        System.out.println("AREA: "+triangle_1.area()+ " cm^2");
+        System.out.println("Perimeter: "+triangle_1.perimeter());
+
 
 
     }
