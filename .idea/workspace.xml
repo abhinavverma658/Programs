@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="366e95fd-5b87-4236-b050-3eab06c218c5" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/src/A_JArray_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A_JM_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A_JM_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arranging_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threading_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,21 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A_JArray_1">
-    <configuration name="A_JArray_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_JArray_1" />
-      <module name="Programs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A_JM_2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_JM_2" />
-      <module name="Programs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Inheritance_1">
     <configuration name="A_JM_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A_JM_2" />
       <module name="Programs" />
@@ -87,6 +73,20 @@
     </configuration>
     <configuration name="A_JM_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A_JM_5" />
+      <module name="Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arranging_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arranging_Array" />
+      <module name="Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritance_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance_1" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,18 +110,18 @@
     <list>
       <item itemvalue="Application.Into_OOPS_2 (4)" />
       <item itemvalue="Application.Run" />
-      <item itemvalue="Application.A_JArray_1" />
+      <item itemvalue="Application.Inheritance_1" />
+      <item itemvalue="Application.Arranging_Array" />
       <item itemvalue="Application.A_JM_2" />
-      <item itemvalue="Application.A_JM_2 (1)" />
       <item itemvalue="Application.A_JM_4" />
       <item itemvalue="Application.A_JM_5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A_JArray_1" />
-        <item itemvalue="Application.A_JM_4" />
+        <item itemvalue="Application.Inheritance_1" />
+        <item itemvalue="Application.Arranging_Array" />
         <item itemvalue="Application.A_JM_5" />
-        <item itemvalue="Application.A_JM_2 (1)" />
+        <item itemvalue="Application.A_JM_4" />
         <item itemvalue="Application.A_JM_2" />
       </list>
     </recent_temporary>
@@ -275,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686207917541</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="changes">
+      <created>1686486647729</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1686486647729</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
