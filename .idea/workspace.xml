@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="366e95fd-5b87-4236-b050-3eab06c218c5" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/src/A_JArray_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A_JArray_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_JArray_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A_JArray_4">
+  <component name="RunManager" selected="Application.A_JArray_5">
     <configuration name="A_JArray_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A_JArray_2" />
       <module name="Programs" />
@@ -77,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arranging_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arranging_Array" />
+    <configuration name="A_JArray_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_JArray_5" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,19 +108,19 @@
     <list>
       <item itemvalue="Application.Into_OOPS_2 (4)" />
       <item itemvalue="Application.Run" />
+      <item itemvalue="Application.A_JArray_5" />
       <item itemvalue="Application.A_JArray_3" />
       <item itemvalue="Application.A_JArray_4" />
       <item itemvalue="Application.A_JArray_2" />
       <item itemvalue="Application.Inheritance_1" />
-      <item itemvalue="Application.Arranging_Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A_JArray_5" />
         <item itemvalue="Application.A_JArray_4" />
         <item itemvalue="Application.A_JArray_3" />
         <item itemvalue="Application.A_JArray_2" />
         <item itemvalue="Application.Inheritance_1" />
-        <item itemvalue="Application.Arranging_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687926895884</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="changes">
+      <option name="closed" value="true" />
+      <created>1688015796353</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1688015796353</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
