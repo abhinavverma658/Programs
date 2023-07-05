@@ -1,3 +1,4 @@
+// Finding second-largest element in an array.
 import java.util.Scanner;
 public class gfgQuestionArray_2 {
     public static void main(String[] args) {
