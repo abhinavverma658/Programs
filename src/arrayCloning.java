@@ -36,5 +36,20 @@ public class arrayCloning {
         }
         System.out.println(" ");
     }
+    /*
+    -------OUTPUT-----------
 
+    Enter Size of array:
+    5
+    Enter elements:
+    1 4 2 6 9
+    CLONED:
+    1 4 2 6 9
+    COPY OF to full length:
+    1 4 2 6 9
+    COPY OF to length  3:
+    1 4 2
+    COPY OF RANGE from 1 to 4 index:
+    4 2 6
+     */
 }
