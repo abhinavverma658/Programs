@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="366e95fd-5b87-4236-b050-3eab06c218c5" name="Changes" comment="changes">
       <change afterPath="$PROJECT_DIR$/src/A_JArray2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A_POA1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_POA2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_POA2_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A_POA1_1">
+  <component name="RunManager" selected="Application.A_POA2_3">
     <configuration name="A_JArray2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A_JArray2_1" />
       <module name="Programs" />
@@ -65,6 +66,20 @@
     </configuration>
     <configuration name="A_POA1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A_POA1_1" />
+      <module name="Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A_POA2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_POA2_2" />
+      <module name="Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A_POA2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_POA2_3" />
       <module name="Programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,36 +107,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrayReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayReference" />
-      <module name="Programs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arrayReferences2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayReferences2" />
-      <module name="Programs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Into_OOPS_2 (4)" />
       <item itemvalue="Application.Run" />
       <item itemvalue="Application.A_JArray2_1" />
       <item itemvalue="Application.A_POA1_1" />
+      <item itemvalue="Application.A_POA2_2" />
+      <item itemvalue="Application.A_POA2_3" />
       <item itemvalue="Application.arrayCloning" />
-      <item itemvalue="Application.arrayReference" />
-      <item itemvalue="Application.arrayReferences2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A_POA2_3" />
+        <item itemvalue="Application.A_POA2_2" />
         <item itemvalue="Application.A_POA1_1" />
         <item itemvalue="Application.A_JArray2_1" />
         <item itemvalue="Application.arrayCloning" />
-        <item itemvalue="Application.arrayReference" />
-        <item itemvalue="Application.arrayReferences2" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689022440791</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="changes">
+      <option name="closed" value="true" />
+      <created>1689267729274</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1689267729274</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -385,5 +394,8 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Programs$A_POA1_1.ic" NAME="A_POA1_1 Coverage Results" MODIFIED="1689267586547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
